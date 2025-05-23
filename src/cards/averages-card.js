@@ -10,7 +10,7 @@ class PronoteAveragesCard extends BasePeriodRelatedPronoteCard {
 
     period_sensor_key = 'averages'
     items_attribute_key = 'averages'
-    header_title = 'Moyennes de '
+    header_title = 'Moyainnes de '
     no_data_message = 'Aucune moyenne'
     allow_all_periods = false
 
